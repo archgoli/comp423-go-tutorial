@@ -1,3 +1,3 @@
 # Go tutorial
 
-[My Course Notes](https://archgoli.github.io/comp423-course-notes/tutorials/go-setup/)
+[My Tutorial](https://archgoli.github.io/comp423-course-notes/tutorials/go-setup/)
